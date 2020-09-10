@@ -5,7 +5,7 @@ This repo contains everything you need to start a project with React, Redux and 
 ## To run it locally
 1. `$ npm install`
 2. `$ npm run start`
-3. visit `http://localhost:8080`
+3. visit `http://localhost:8088`
 
 ## Testing
 1. For command line tests, `$ npm run test`
